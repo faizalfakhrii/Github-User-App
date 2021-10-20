@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="logo">Logo</string>
+    <string name="search">Cari</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="connection_problem">Koneksi Bermasalah</string>
+    <string name="profile">Profil</string>
+    <string name="tab_follower">Pengikut</string>
+    <string name="tab_following">Mengikuti</string>
+    <string name="no_user_found">Tidak Ada Pengguna Yang Ditemukan</string>
+    <string name="type">Tipe</string>
+    <string name="name">Nama</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="_0">0</string>
+    <string name="favorite">Favorit</string>
+    <string name="settings">Pengaturan</string>
+    <string name="daily_remainder">Pengingat Harian</string>
+    <string name="reminder_active">Pengingat Harian Dinyalakan</string>
+    <string name="reminder_non_active">Pengingat Harian Dimatikan</string>
+    <string name="user_deleted">Data Dihapus Dari Favorit</string>
+    <string name="user_added">Data Ditambahkan Ke Favorit</string>
+</resources>

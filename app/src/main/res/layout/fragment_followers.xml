@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.FollowersFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvUserFollowers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="?attr/actionBarSize"
+        tools:listitem="@layout/user_list" />
+
+    <TextView
+        android:id="@+id/no_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="8dp"
+        android:visibility="gone"
+        android:gravity="center"
+        android:fontFamily="@font/poppins_regular"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:text="@string/no_user_found" />
+
+</FrameLayout>

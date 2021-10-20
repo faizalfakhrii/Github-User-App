@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">consumerapp</string>
+    <string name="logo">Logo</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+    <string name="change_language">Change Language</string>
+    <string name="connection_problem">Connection Problem</string>
+    <string name="profile">Profile</string>
+    <string name="tab_follower">Follower</string>
+    <string name="tab_following">Following</string>
+    <string name="no_user_found">No User Found</string>
+    <string name="type">Type</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="_0">0</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="daily_remainder">Daily Remainder</string>
+</resources>
